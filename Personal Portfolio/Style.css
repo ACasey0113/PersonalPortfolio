@@ -1,0 +1,52 @@
+body{
+background-color: #E3FF94;
+}
+h1{
+    color:##6F8055;
+}
+#navigation{
+    display: flex;
+    grid-template-columns:auto
+    width: 100px;
+    height: 90px;
+    justify-content: space-between;
+}
+
+.about{
+    font-size:30px;
+    color: blue;
+}
+.work
+{
+    font-size: 30px;
+    color:blue;
+}
+.contact{
+    font-size: 30px;
+    color:blue;
+}
+.button{
+    size: 60px;
+    border:none
+    height:50px;
+    color: #EF0F9D;
+    background-color: #FAAB35;
+}
+
+.footer{
+    background-color: #80965E;
+    height: 20px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.inquiries{
+    border:solid 3px;
+    color:#e3680a
+    margin:52px;
+    height: 50px;
+    width: 300px;
+    
+}
